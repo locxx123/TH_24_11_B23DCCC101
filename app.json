@@ -38,6 +38,14 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Ứng dụng cần quyền truy cập vị trí để hiển thị thông tin thời tiết.",
+          "locationAlwaysPermission": "Ứng dụng cần quyền truy cập vị trí để hiển thị thông tin thời tiết.",
+          "locationWhenInUsePermission": "Ứng dụng cần quyền truy cập vị trí để hiển thị thông tin thời tiết."
+        }
       ]
     ],
     "experiments": {
